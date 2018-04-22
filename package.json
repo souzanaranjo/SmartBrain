@@ -2,8 +2,9 @@
   "name": "smartbrain",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://souzanaranjo.github.io/smartbrain",
+  "homepage": "http://souzanaranjo.github.io/SmartBrain",
   "dependencies": {
+    "clarifai": "^2.7.0",
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
     "react-particles-js": "^2.1.2",
